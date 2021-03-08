@@ -17,11 +17,29 @@
     "doctrine/lexer": {
         "version": "1.2.1"
     },
+    "guzzlehttp/guzzle": {
+        "version": "7.2.0"
+    },
+    "guzzlehttp/promises": {
+        "version": "1.4.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.7.0"
+    },
     "nikic/php-parser": {
         "version": "v4.10.4"
     },
     "php": {
         "version": "7.2"
+    },
+    "phpdocumentor/reflection-common": {
+        "version": "2.2.0"
+    },
+    "phpdocumentor/reflection-docblock": {
+        "version": "5.2.2"
+    },
+    "phpdocumentor/type-resolver": {
+        "version": "1.4.0"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -32,8 +50,17 @@
     "psr/event-dispatcher": {
         "version": "1.0.0"
     },
+    "psr/http-client": {
+        "version": "1.0.1"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
+    },
     "psr/log": {
         "version": "1.1.3"
+    },
+    "ralouphie/getallheaders": {
+        "version": "3.0.3"
     },
     "symfony/cache": {
         "version": "v5.2.4"
@@ -145,6 +172,12 @@
     "symfony/polyfill-php80": {
         "version": "v1.22.1"
     },
+    "symfony/property-access": {
+        "version": "v5.2.4"
+    },
+    "symfony/property-info": {
+        "version": "v5.2.4"
+    },
     "symfony/routing": {
         "version": "5.1",
         "recipe": {
@@ -158,6 +191,12 @@
             "config/packages/routing.yaml",
             "config/routes.yaml"
         ]
+    },
+    "symfony/serializer": {
+        "version": "v5.2.4"
+    },
+    "symfony/serializer-pack": {
+        "version": "v1.0.4"
     },
     "symfony/service-contracts": {
         "version": "v2.2.0"
@@ -173,5 +212,8 @@
     },
     "symfony/yaml": {
         "version": "v5.2.4"
+    },
+    "webmozart/assert": {
+        "version": "1.9.1"
     }
 }
